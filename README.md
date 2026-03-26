@@ -1,3 +1,5 @@
+## Clustering algotithms
+
 This project explores and compares three clustering approaches:
 
 - K-means++ (with kernel extensions)
